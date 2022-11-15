@@ -2,6 +2,7 @@
 Genesis League Token Autostaking Program
 
 This program is written in C# and is intended to stake GLX automaticly
+This software is offered with no warranty expressed or implied. Use at your own risk.
 
 There is a compiled version of this program in the "compiled" folder for those who trust me 100%
 This program makes use of your active keys so you should compile it yourself.  I am not a bad guy but never take these things for granted.
